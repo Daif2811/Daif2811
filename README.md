@@ -95,12 +95,6 @@ Full Stack .NET Developer with 2 years’ experience in ASP.NET Core MVC and API
 ![Application Insights](https://img.shields.io/badge/Application%20Insights-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
-## 🌟 Featured Projects
-- [**alfatoora.com**](https://alfatoora.com) — ERP Web Solution  
-- [**erp.z4u-solutions.com**](https://erp.z4u-solutions.com) — ERP Web Solution  
-- **ERP Projects**: Full-stack web applications for enterprise resource planning, built with ASP.NET Core and modern web technologies.
----
-
 ## 🧐 A Little Bit About Me
 
 ```csharp
