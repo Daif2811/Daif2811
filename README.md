@@ -1,7 +1,5 @@
-# 👨‍💻 Daif Hamdan
-
 <div align="center"><img src="./github-header-image.png"></div>
-<h1 align="center">Hello, I'm Daif Hamdan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align="center">👨‍💻 Hello, I'm Daif Hamdan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <h3 align="center">Software Engineer & .NET Core Developer 🌍</h3>
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=600&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Backend+Developer;💻+.NET+Core+Developer;🧩+Problem+Solver;⚡+Always+Learning+New+Tech" alt="Typing SVG" />
