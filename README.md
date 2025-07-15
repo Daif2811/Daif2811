@@ -94,7 +94,7 @@ Full Stack .NET Developer with 2 years’ experience in ASP.NET Core MVC and API
 ![Serilog](https://img.shields.io/badge/Serilog-3C3C3C?style=for-the-badge)
 ![Application Insights](https://img.shields.io/badge/Application%20Insights-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-
+---
 ## 🧐 A Little Bit About Me
 
 ```csharp
