@@ -21,7 +21,9 @@ Full Stack .NET Developer with 2 years’ experience in ASP.NET Core MVC and API
 - 🎮 **Interests**: Cloud Integration, Performance Optimization and Problem Solving
 - 📍 **Location**: Cairo, Egypt
 
-&nbsp; &nbsp; *[Show My CV](https://drive.google.com/drive/folders/1Sf8ODCBLCr5PUorZUSTBEuwQdBHgOAZR/view?usp=sharing)*
+&nbsp; &nbsp; *[Show My CV](https://drive.google.com/file/d/1ITe3iua2L2o-611Qxn4SZBK_xACSQm7p/view?usp=sharing)*
+&nbsp; &nbsp; <a href="https://drive.google.com/file/d/1ITe3iua2L2o-611Qxn4SZBK_xACSQm7p/view?usp=sharing" target="_blank" rel="noopener">Show My CV</a>
+
 
 ---
 
