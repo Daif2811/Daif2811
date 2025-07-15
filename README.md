@@ -81,13 +81,14 @@ Full Stack .NET Developer with 2 years’ experience in ASP.NET Core MVC and API
 ![Factory Pattern](https://img.shields.io/badge/Factory%20Pattern-45B7D1?style=for-the-badge)
 ![Singleton Pattern](https://img.shields.io/badge/Singleton%20Pattern-96CEB4?style=for-the-badge)
 ![Strategy Pattern](https://img.shields.io/badge/Strategy%20Pattern-FECA57?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-C44569?style=for-the-badge)
+![MVC Pattern](https://img.shields.io/badge/MVC%20Pattern-F8B500?style=for-the-badge)
+<!--
 ![Observer Pattern](https://img.shields.io/badge/Observer%20Pattern-FF9FF3?style=for-the-badge)
 ![Builder Pattern](https://img.shields.io/badge/Builder%20Pattern-54A0FF?style=for-the-badge)
 ![Adapter Pattern](https://img.shields.io/badge/Adapter%20Pattern-5F27CD?style=for-the-badge)
 ![Command Pattern](https://img.shields.io/badge/Command%20Pattern-00D2D3?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-C44569?style=for-the-badge)
-![MVC Pattern](https://img.shields.io/badge/MVC%20Pattern-F8B500?style=for-the-badge)
-
+-->
 
 ### Monitoring & Logging
 ![Logging](https://img.shields.io/badge/Logging-607D8B?style=for-the-badge&logo=logstash&logoColor=white)
