@@ -104,7 +104,7 @@ Full Stack .NET Developer with 2 years’ experience in ASP.NET Core MVC and API
 ## 🧐 A Little Bit About Me
 
 ```csharp
-public class SayedElmahdy : Developer
+public class DaifHamdan : Developer
 {
     public Daif2811()
     {
@@ -132,16 +132,17 @@ public class SayedElmahdy : Developer
 
 ### 🏢 Z4U Solution Software Company
 **Backend & Frontend Developer**
-- **Smart ERP System**: Contributing to enterprise resource planning system development as part of the development team
-- **Restaurant Management System**: A system to manage restaurant orders, billing, inventory, and staff efficiently.
-- **Dental Lab Management System**: A system for managing dental lab cases, patient records, billing, and workflow.
-- **Luka E-Commerce Platform**: Full-stack development of Amazon-like e-commerce platform using Vue.js frontend and .NET backend
+- [**Smart ERP System**](https://erp.z4u-solutions.com): Contributing to enterprise resource planning system development as part of the development team.
+- [**Restaurant Management System**](http://2.58.80.186:8112): A system to manage restaurant orders, billing, inventory, and staff efficiently.
+- [**Dental Lab Management System**](http://2.58.80.186:8113): A system for managing dental lab cases, patient records, billing, and workflow.
+- [**E-Commerce Platform**](https://rahaall.com): Full-stack development of Amazon-like e-commerce platform using Vue.js frontend and .NET backend.
+
 
 
 ### 🏢 Appy Innovate Company
 **Dot Net Developer**
-- **Al Fatoora**: ERP System to manage invoices for all merchants in one app and connect directly with ZATCA
-- **ZATCA SAAS Portal**: Interface to review invoices before send to ZATCA and Send it direcltly, Connected with all apps in the company 
+- [**Al Fatoora**](https://alfatoora.com): ERP System connected with ZATCA in Saudi Arabia to manage invoices for all merchants in one app.
+- [**ZATCA SAAS Portal**](http://zatcalink.appysubscription.com/): Interface to review invoices before send to ZATCA and Send it direcltly, Connected with all apps in the company.
 
 ### 👥 Freelncer
 - **Social Networking Application**: A social networking app enabling users to connect, share, and chat in real-time using SignalR.
