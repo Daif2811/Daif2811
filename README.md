@@ -128,8 +128,8 @@ public class DaifHamdan : Developer
 ### 🏢 Z4U Solution Software Company
 **Backend & Frontend Developer**
 - [**Smart ERP System**](https://erp.z4u-solutions.com): Contributing to enterprise resource planning system development as part of the development team.
-- [**Restaurant Management System**](http://2.58.80.186:8112): A system to manage restaurant orders, billing, inventory, and staff efficiently.
-- [**Dental Lab Management System**](http://2.58.80.186:8113): A system for managing dental lab cases, patient records, billing, and workflow.
+- [**Restaurant Management System**](https://restaurant.z4u-solutions.com): A system to manage restaurant orders, billing, inventory, and staff efficiently.
+- [**Dental Lab Management System**](https://dental.z4u-solutions.com): A system for managing dental lab cases, patient records, billing, and workflow.
 - [**E-Commerce Platform**](https://rahaall.com): Full-stack development of Amazon-like e-commerce platform using Vue.js frontend and .NET backend.
 
 
